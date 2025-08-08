@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm fullstack developer. My core stack is `.NET C#` and `Vue`  
+- 🔭 I’m currently migrating to `Angular` ...
+- 🌱 ... and mastering algorithms
 
+  
 <!--
 **badnickname/badnickname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
