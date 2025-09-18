@@ -1,7 +1,8 @@
 ## Hi there 👋
-I'm fullstack developer. My core stack is `.NET C#` and `Vue`  
-- 🔭 I’m currently migrating to `Angular` ...
-- 🌱 ... and mastering algorithms
+I'm fullstack developer. My core stack is `.NET C#` and `Angular`  
+- 🔭 Also I've a lot of experience with `Vue`
+- 🌱 I’m currently mastering algorithms
+- 📫 How to reach me: [12e.space](https://12e.space)
 
   
 <!--
